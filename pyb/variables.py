@@ -1,6 +1,4 @@
 
-# Day 1 - Python Basics for Machine Learning
-
 # 1. Variables
 student_name = "riya"
 age = 19
